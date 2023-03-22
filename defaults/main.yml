@@ -1,0 +1,7 @@
+---
+# defaults file for ansible-role-pihole-podman
+
+server_ip: "127.0.0.1"
+time_zone: "Europe/Berlin"
+image_tag: "latest"
+web_password: "CHANGEME"
