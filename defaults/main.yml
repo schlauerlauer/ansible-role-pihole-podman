@@ -3,5 +3,6 @@
 
 server_ip: "127.0.0.1"
 time_zone: "Europe/Berlin"
-image_tag: "latest"
+image_tag: "2023.03.1"
 web_password: "CHANGEME"
+base_dir: "."
